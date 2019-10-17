@@ -44,6 +44,7 @@
 .input-label input {
     flex: 1;
 }
+
 .placeholder {
     font-size: 26rpx;
     color: #b0b0b0;

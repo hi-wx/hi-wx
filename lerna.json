@@ -19,7 +19,11 @@
     "publish": {
       "ignoreChanges": [
         "ignored-file",
-        "*.md"
+        "*.md",
+        "test/**",
+        "tools/**",
+        "miniprogram_dev/**",
+        "miniprogram_dist/**"
       ]
     }
   }

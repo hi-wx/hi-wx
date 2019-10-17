@@ -1,5 +1,5 @@
 {
-  "name": "@hi-wx/input",
+  "name": "@hiwx/input",
   "version": "0.0.1",
   "description": "",
   "main": "miniprogram_dist/index.js",
@@ -32,11 +32,7 @@
     "wx-input",
     "hi-input"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ythipac/hiui-webapp.git",
-    "directory": "packages/input"
-  },
+  "repository": "https://github.com/hi-wx/hi-wx/tree/master/packages/input",
   "author": "huali",
   "license": "MIT",
   "devDependencies": {

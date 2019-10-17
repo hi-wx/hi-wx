@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "changelog": {
-    "repo": "ythipac/hiui-webapp",
+    "repo": "hi-wx/hi-wx",
     "cacheDir": ".changelog",
     "labels": {
       "PR: Breaking Change :boom:": ":boom: Breaking Change",

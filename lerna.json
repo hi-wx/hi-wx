@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.4",
   "packages": [
     "packages/*"
   ],
@@ -16,7 +16,11 @@
     }
   },
   "command": {
+    "version": {
+      "allowBranch": "master"
+    },
     "publish": {
+      "exact": true,
       "ignoreChanges": [
         "ignored-file",
         "*.md",

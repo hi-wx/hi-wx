@@ -16,11 +16,7 @@
     }
   },
   "command": {
-    "version": {
-      "allowBranch": "master"
-    },
     "publish": {
-      "exact": true,
       "ignoreChanges": [
         "ignored-file",
         "*.md",
